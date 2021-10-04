@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NagarajuAsamani
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning all about RBI Apps
-- 💞️ I’m looking to collaborate entire RBI
+- 🌱 I’m currently learning all about Application Security
+- 💞️ I’m looking to collaborate in AIML
 - 📫 How to reach me nasamani@rbi.com
 
 <!---
